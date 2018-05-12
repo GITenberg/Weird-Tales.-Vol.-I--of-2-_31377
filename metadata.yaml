@@ -1,0 +1,42 @@
+_repo: Weird-Tales.-Vol.-I--of-2-_31377
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bealby, J. T. (John Thomas)
+    alias: Bealby, John Thomas
+    birthdate: 1858
+    gutenberg_agent_id: '35185'
+    url: http://www.gutenberg.org/2009/agents/35185
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, Ernst Theodor Wilhelm
+    - Hoffmann, E.T.A.
+    - Hoffmann, Ernst Theodor Amadeus
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fantasy fiction, German -- Translations into English'
+- !lcsh 'Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822 -- Translations into
+  English'
+tableOfContents: The Cremona violin -- The fermata -- Signor Formica -- The Sand-man
+  -- The entail -- Arthur's Hall.
+title: Weird Tales. Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/31377
