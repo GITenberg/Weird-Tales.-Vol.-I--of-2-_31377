@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2008
     wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31377#Weird-Tales.-Vol.-I--of-2-
 gutenberg_issued: '2010-02-23'
 gutenberg_type: Text
 identifiers:
